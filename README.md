@@ -32,8 +32,8 @@ The model is trained using a combination of pixel-level and perceptual loss func
 - **Loss Function:**  
   - Mean Absolute Error (MAE)  
   - Structural Similarity Index Measure (SSIM)  
-- **Number of Epochs:** 50  
-- **Batch Size:** 16  
+- **Number of Epochs:** 1000
+- **Batch Size:** 64  
 
 The combined MAE–SSIM loss function improves edge preservation and overall visual quality.
 
