@@ -187,7 +187,7 @@ Contributions are welcome! Please feel free to submit a Pull Request. For major 
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is open source and available for personal and educational use.
 
 ## Acknowledgments
 
